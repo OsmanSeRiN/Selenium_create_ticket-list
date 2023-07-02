@@ -32,9 +32,7 @@ class ticket :
        print("Bilet sayısı : ",ticket_number)
       
        return ticket_number
-
-
-ticket_amount= ticket().site_open()
+         
 
 class documant:
     def create_list(self):
